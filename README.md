@@ -78,4 +78,18 @@ A high-fidelity wireframe shared via Figma lets teammates or users click through
 
 ➡️ Early feedback can highlight design flaws or usability issues, saving time and cost down the line.
 By using wireframes, development teams can plan better, collaborate more effectively, and deliver products that meet user needs with fewer iterations.
+## Real-World Scenario: Wireframing at Slack
+🧩 **Scenario**:
+During the early design phase of Slack’s mobile app, wireframes were used to map out the navigation flow. The team realized during wireframe reviews that:
+- Users had to go through too many screens to access a conversation.
+- The "Search" function was buried in a menu, making it hard to find.
 
+🛠️ **Resolution**:
+- The navigation was restructured to reduce the number of taps needed to reach key features.
+- The search bar was moved to the top level of the interface for quick access.
+
+🎯 **Impact**:
+These early adjustments, made possible through wireframing and user testing, led to higher engagement and smoother user onboarding when the app launched.
+
+✅ **Conclusion**:
+This real case shows how wireframing is critical in spotting friction points early and shaping user-friendly products that scale successfully.
