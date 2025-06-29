@@ -34,3 +34,22 @@ The wireframe included in this project is a High-Fidelity Wireframe.
 - It features detailed design elements such as actual fonts, images, colors, and spacing that closely resemble the final product.
 - This type of wireframe is used in the later stages of the design process to communicate precise UI/UX decisions.
 - It allows for usability testing, stakeholder review, and a clear handoff to developers
+## Wireframing Tools
+Wireframing tools help designers create structured layouts and plan user experiences efficiently. Here are some popular options:
+
+🔹 **Figma** (Recommended)
+Figma is a cloud-based design and prototyping tool widely used for wireframing and UI/UX design. It allows teams to collaborate in real-time on the same design file.
+Key Features:
+- Intuitive drag-and-drop interface
+- Real-time collaboration and commenting
+- Component-based design system
+- Works directly in the browser (no installation needed)
+
+➡️ Why Figma for Wireframing?
+Figma is perfect for both low- and high-fidelity wireframes. It allows fast iteration, easy sharing, and seamless team feedback, making it ideal for modern, collaborative design workflows.
+
+**Other Tools**:
+- Balsamiq – Great for low-fidelity, sketch-style wireframes
+- Adobe XD – Combines wireframing with interactive prototyping
+- Sketch – Mac-only tool popular for UI design
+- Wireframe.cc – Simple and minimal tool for quick layouts
